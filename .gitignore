@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Dataset (IMPORTANT - your case)
+data/
+*.csv
+
+# Model files
+*.pkl
+*.joblib
+
+# IDE
+.vscode/
+
+# Environment variables
+.env
